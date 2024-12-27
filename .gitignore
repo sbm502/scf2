@@ -1,6 +1,12 @@
 .venv
-dnn_model
-data
 __pycache__
 *.mp4
-st-track.py
+output_od
+models
+videos
+runs
+model
+images/mask.png
+detr.py
+od_yolo_tiny.py
+od_yolov3.py
