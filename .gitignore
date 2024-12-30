@@ -10,3 +10,6 @@ images/mask.png
 detr.py
 od_yolo_tiny.py
 od_yolov3.py
+CenterNet_ROOT
+coco8
+od_yolov3_custom.py
