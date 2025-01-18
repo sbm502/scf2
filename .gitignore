@@ -1,7 +1,6 @@
 .venv
 venv
 __pycache__
-*.mp4
 *.pdf
 output_od
 models
@@ -12,3 +11,10 @@ coco8
 detr.py
 od_yolov3.py
 color_index_w.py
+pose.py
+feature_extraction.py
+layout.txt
+gaussian.py
+masked_tracking.py
+output
+smooth_tracking.py
